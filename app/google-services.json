@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263166478289",
+    "project_id": "tienditaapp-c8369",
+    "storage_bucket": "tienditaapp-c8369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263166478289:android:6721f70b2fdbe0af18c2f0",
+        "android_client_info": {
+          "package_name": "mx.unam.ingenieria.tienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263166478289-ktvsnh4r1p13nadl5qeh58irvkuo72qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSycxjXCZAicwOzQCTQijeAogq09PJ3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263166478289-ktvsnh4r1p13nadl5qeh58irvkuo72qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtvCVTitulo"
+        android:text="Estrenar"
+        android:textSize="32sp"
+        android:gravity="center"
+        />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/gamerpc"
+        android:id="@+id/imgbCVproducto"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:id="@+id/txtvCVdescribe"
+        android:text="Lo mejor de lo mejor "
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¡Vamos a la coleccion!!"
+        android:id="@+id/btnCVcoleccion"
+
+        />
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</androidx.cardview.widget.CardView>

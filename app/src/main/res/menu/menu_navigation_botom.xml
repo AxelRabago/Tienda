@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:orderInCategory="101"
+        android:title="@string/nav_menu_inicio"
+        android:icon="@drawable/ic_home"
+        />
+
+        //Se mostrara boton con un orden de 101 y este tendra un inicio
+
+    <item android:id="@+id/nav_buscar"
+        android:orderInCategory="102"
+        android:title="@string/nav_menu_buscar"
+        android:icon="@drawable/ic_search"
+        />
+
+    <item android:id="@+id/nav_comprar"
+        android:orderInCategory="103"
+        android:title="@string/nav_menu_comprar"
+        android:icon="@drawable/ic_car"
+        />
+
+    <item android:id="@+id/nav_inicia"
+        android:orderInCategory="104"
+        android:title="@string/nav_menu_inicia"
+        android:icon="@drawable/ic_usser"
+        />
+
+
+
+</menu>

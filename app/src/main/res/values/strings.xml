@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="txtvStringBienvenido">Bienvenido</string>
+    <string name="edtNombreUsuarioHint">Nombre Usuario</string>
+    <string name="btnStringIngresar">Ingresar</string>
+    <string name="btnStringRegistrar">Registrar</string>
+    <string name="edtHintUsuarioRegistrar">Nombre de usuario  </string>
+    <string name="edtHintNombreCompletoRegistar">Nombre Completo</string>
+    <string name="btnSalvarRegistro">Salvar</string>
+    <string name="nav_menu_inicio">Inicio</string>
+    <string name="nav_meny_buscar">Buscar</string>
+    <string name="nac_comprar">Comprar</string>
+    <string name="nav_comprar">Comprar</string>
+    <string name="nav_inicia">Inicia</string>
+    <string name="nav_menu_buscar">Buscar</string>
+    <string name="nav_menu_comprar">Comprar</string>
+    <string name="nav_menu_inicia">Inicia</string>
+    <string name="strmenSalvar">Salvar</string>
+    <string name="fds">Cargar</string>
+    <string name="strmenCargar">Cargar</string>
+</resources>
